@@ -7,3 +7,5 @@ services to be consumed by the ReactJS frontend.
 
 In order to generate public and private key you can use a command in bash
 similar to `$ ssh-keygen -t rsa -C "your_email@com"`.
+
+`mvn spring-boot:run` runs the app upon download. <em>/Maven client required!/</em>
